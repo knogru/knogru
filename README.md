@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<figure><embed src="https://wakatime.com/share/@58a46d4c-8623-45b8-b41f-119212067633/726a2462-dd00-4e1a-91b3-1adf53290b48.svg"></embed></figure>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **knogru/knogru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
