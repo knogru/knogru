@@ -17,4 +17,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SECTION_NAME: waka
-          IGNORED_LANGUAGES: YAML JSON BINARY 
+          IGNORED_LANGUAGES: YAML JSON Binary 
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
