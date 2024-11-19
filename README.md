@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Here you can see my Wakatime DevMetrics
 <!--START_SECTION:waka-->
 
 ```txt
